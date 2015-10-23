@@ -1,4 +1,7 @@
 # GitHub Calendar Hack
+
+Outdated, use https://github.com/KyroChi/GitHub-Calendar-Artist for a better version
+
 ![Calendar](http://i.imgur.com/AFe3MWG.png)
 
 # Usage
